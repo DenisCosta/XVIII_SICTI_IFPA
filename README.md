@@ -1,2 +1,6 @@
 # XVIII_SICTI_IFPA
 SIMULATED ANNEALING APLICADO NA OTIMIZAÇÃO GLOBAL DE FUNÇÕES MULTIMODAIS
+Artigo apresentado no XVIII Seminário de Iniciação Científica, Tecnológica e Inovação (SICTI), evento de Iniciação Científica do Instituto Federal de Educação, Ciência e Tecnologia do Pará - IFPA. 
+RESUMO: O estudo analisa a Metaheurística Simulated Annealing (SA), fundamentada na termodinâmica e no critério de Metropolis para resolver problemas complexos de otimização e escapar de ótimos locais. A fundamentação teórica destaca a relevância do cronograma de resfriamento para o equilíbrio entre exploração e intensificação do espaço de busca. Validado em ambiente OCTAVE/MATLAB utilizando a Função de Ackley bidimensional, os testes numéricos confirmaram que a calibração de parâmetros como temperatura inicial e fator de resfriamento é crucial para a convergência. Conclui-se que o SA é uma ferramenta estocástica robusta, que une com alta eficiência conceitos físicos e computacionais, fundamentais ao planejamento energético.
+Palavras-chave: Otimização Estocástica. Termodinâmica Computacional. Minimização de Energia. Algoritmo de Metropolis.
+Acesso ao evento: https://bookline.iffarroupilha.edu.br/e/xviii-sicti-xi-simit
